@@ -1,0 +1,11 @@
+C:\VS\ConcurrentCallCruncher\ConcurrentCallCruncher\bin\Debug\netcoreapp2.1\ConcurrentCallCruncher.deps.json
+C:\VS\ConcurrentCallCruncher\ConcurrentCallCruncher\bin\Debug\netcoreapp2.1\ConcurrentCallCruncher.runtimeconfig.json
+C:\VS\ConcurrentCallCruncher\ConcurrentCallCruncher\bin\Debug\netcoreapp2.1\ConcurrentCallCruncher.runtimeconfig.dev.json
+C:\VS\ConcurrentCallCruncher\ConcurrentCallCruncher\bin\Debug\netcoreapp2.1\ConcurrentCallCruncher.dll
+C:\VS\ConcurrentCallCruncher\ConcurrentCallCruncher\bin\Debug\netcoreapp2.1\ConcurrentCallCruncher.pdb
+C:\VS\ConcurrentCallCruncher\ConcurrentCallCruncher\obj\Debug\netcoreapp2.1\ConcurrentCallCruncher.csprojAssemblyReference.cache
+C:\VS\ConcurrentCallCruncher\ConcurrentCallCruncher\obj\Debug\netcoreapp2.1\ConcurrentCallCruncher.csproj.CoreCompileInputs.cache
+C:\VS\ConcurrentCallCruncher\ConcurrentCallCruncher\obj\Debug\netcoreapp2.1\ConcurrentCallCruncher.AssemblyInfoInputs.cache
+C:\VS\ConcurrentCallCruncher\ConcurrentCallCruncher\obj\Debug\netcoreapp2.1\ConcurrentCallCruncher.AssemblyInfo.cs
+C:\VS\ConcurrentCallCruncher\ConcurrentCallCruncher\obj\Debug\netcoreapp2.1\ConcurrentCallCruncher.dll
+C:\VS\ConcurrentCallCruncher\ConcurrentCallCruncher\obj\Debug\netcoreapp2.1\ConcurrentCallCruncher.pdb
