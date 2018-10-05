@@ -1,13 +1,25 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
-class ConcurrentSummary
+public class ConcurrentSummary
 {
+    public string Program { get; set; }
+    public string Office { get; set; }
+    public DateTime Start { get; set; }
+    public DateTime End { get; set; }
     public int TotalIntervals { get; set; }
     public List<Concurrent> Counts { get; set; }
 
-    public ConcurrentSummary(IntervalSummary intervals)
+    public ConcurrentSummary() {}
+
+    public ConcurrentSummary(string Program, string Office, DateTime Start, DateTime End, IntervalSummary intervals)
     {
+        this.Program = Program;
+        this.Office = Office;
+        this.Start = Start;
+        this.End = End;
+
         Counts = new List<Concurrent>();
 
         TotalIntervals = intervals.Intervals.Count;

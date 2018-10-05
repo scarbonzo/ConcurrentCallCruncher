@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Call
+public class Call
 {
     public DateTime Start { get; set; }
     public DateTime End { get; set; }
